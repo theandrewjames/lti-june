@@ -1,0 +1,18 @@
+1. 
+A) A student may be a host-elite or a day scholar. The lecturers can be categorized into full time lecturers and 
+visiting members. 
+B) They are all students. 
+C) Students can be day scholar, host-elite, graduate and post graduate students.
+ The staff can be staff or HOD or lecturers that can be categorized into full time lecturers and visiting members. 
+ D) You would
+  need all student data including Student Id, Student Name, Course registered, Lecturer Name, Marks scored and then filter it.
+  
+2.
+ A) Exposed: name Hidden: marks, host elite/day scholar, courses, graduate/post graduate 
+ B)1 method in Student and 
+overload it in Graduate/PostGraduate depending on if they are graduate or post graduate since one has a project and one a
+ thesis. 
+ C) 1 method in Student and overload it host elite/day scholar.
+  D) A is encapsulation, B, C is method overloading  
+  
+3. 
