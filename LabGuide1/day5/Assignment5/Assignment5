@@ -1,0 +1,7 @@
+1.  Students(graduate/postgrad and host-elite/dayscholar), faculty members(full time lecturers/visiting, admin staff(regular, HOD)
+2.  Full time/visiting lectueres/admin staff will extend Faculty.
+3. Students(studentId, name, coureseList w/marks for each course, grad/post grad type,hostel-elite/dayscholar type)getters/setters
+	Faculty(facultyid, name, hiredate, salary, isHOD,login)getters/setters
+	Lecturer(fulltime/visiting status, rate)getters/setters
+	
+	
